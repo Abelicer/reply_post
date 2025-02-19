@@ -18,7 +18,7 @@ DEFAULT_ROLE_DESC='You are a helpful assistant.'
 # Redis params
 REDIS_HOST="127.0.0.1"
 REDIS_PORT=6379
-REDIS_PASSWORD="kktd@0615"
+REDIS_PASSWORD="xxxx"
 REDIS_DB=1
 
 
